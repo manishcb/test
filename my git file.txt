@@ -1,3 +1,5 @@
 This contents from git-test-master folder
 
 This contents from 'git-test-a' branch
+
+Again changes on 'git-test-a' branch 
